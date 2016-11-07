@@ -1,0 +1,42 @@
+/* VERSION 1.0.5 2016/10/31 */
+- Fixed: Plugin TP Donate in mobile.
+- Fixed responsive mobile form donate.
+
+/* VERSION 1.0.5 2016/10/25 */
+- Fixed: UI layout Cause.
+- Update: Plugin TP Donate, TP Event, TP Event-Auth.
+- Fixed font family Icon-Box
+
+/* VERSION 1.0.4 2016/09/09 */
+- Fixed: Issue conflict js with isotope.
+- Update: Plugin TP Donate.
+
+
+/* VERSION 1.0.3 2016/08/19 */
+- Updated: Outdated some WooCommerce template files version 2.6.4
+- Updated: Plugin required
+- Fixed: Option setup Top image in Customize
+- Fixed: Double header image on single our team page
+- Fixed: Widget Thim: Our team
+- Fixed: Widget Thim: Testimonials
+- Fixed: Widget Thim: Google Map
+
+
+/* VERSION 1.0.2 2016/06/20 */
+- Added: Mega menu style.
+- Added: Donation page (shortcode).
+- Added: Portfilio.
+- Updated: Demo data.
+- Updated: TGM Plugin Activation to the latest version.
+- Updated: Revolution Slider.
+- Updated: Thimpress Donate plugin.
+
+/* VERSION 1.0.1 2016/05/25 */
+- Added: Galleries with source post format gallery.
+- Fixed: Import demo data
+- Fixed: Parallax effect.
+- Updated: Slider Home 2.
+- Updated: UI\UX.
+- Updated: Demo data.
+
+/* VERSION 1.0 */

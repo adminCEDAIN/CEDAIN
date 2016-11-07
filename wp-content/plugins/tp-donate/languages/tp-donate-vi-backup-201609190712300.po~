@@ -1,0 +1,1503 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ThimPress Donate\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-19 07:11+0000\n"
+"PO-Revision-Date: 2016-09-19 07:12+0000\n"
+"Last-Translator: plugin <hoangleenhan@gmail.com>\n"
+"Language-Team: Vietnamese\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-ajax.php:56
+msgid "Campaign is not exists in our system."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-ajax.php:91
+msgid "Could not do action."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-ajax.php:132
+msgid "Could not delete compensate. Please try again."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-ajax.php:142
+msgid "You must login"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-ajax.php:170
+msgid "Could not change status of Donate. Please try again."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-cart.php:88
+msgid "Class process product is not exists"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-cart.php:204
+msgid "cart item is not exists"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-checkout.php:37
+msgid "We were unable to process your order, please try again."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-checkout.php:54
+msgid "Campaign is invalid."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-checkout.php:70 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-checkout.php:102
+msgid "Please enter donation amount."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-checkout.php:73
+msgid "Custom donate amount overcome campaign goal."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-checkout.php:83
+msgid "This Campaign currently is not allow donate."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-checkout.php:89
+msgid "Something went wrong, could not add to cart item. Please try again."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-checkout.php:107
+msgid "<strong>First Name</strong> is a required field."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-checkout.php:111
+msgid "<strong>Last Name</strong> is a required field."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-checkout.php:115
+msgid "<strong>Email</strong> is invalid."
+msgstr "xxx"
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-checkout.php:119
+msgid "<strong>Phone Number</strong> is a required field."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-checkout.php:126
+msgid "<strong>Terms and Contidions</strong> is a required field."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-checkout.php:132
+msgid "<strong>Address</strong> is a required field."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-checkout.php:143
+msgid "<strong>Payment method</strong> is invalid. Please try again."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-checkout.php:150
+msgid "No First Name"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-checkout.php:151
+msgid "No Last Name"
+msgstr ""
+
+#. Base ID
+#. Description of the plugin
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:57 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/i18n.php:19 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-donate.php:28 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/widgets/class-dn-widget-button.php:17 
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/checkout/checkout.php:40 
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/shortcodes/donate-form.php:46 
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/shortcodes/donate-form.php:129 
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/shortcodes/donate-form.php:144 
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/shortcodes/donate-form.php:163
+msgid "Donate"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:58 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donate-action.php:34
+msgid "User"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:59 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/class-dn-metabox-campaign.php:81
+msgid "Type"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:60 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:567
+msgid "Date"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:61 
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/cart/cart_total.php:10 
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/checkout/cart_total.php:10 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donate.php:112
+msgid "Total"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:62
+msgid "Method"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:63
+msgid "Status"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:64
+msgid "Actions"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:77
+msgid "%s <small>by</small> %s"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:90 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donate-action.php:37
+msgid "Guest"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:95
+msgid "Donate For System"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:97
+msgid "Donate For Campaign"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:232 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/class-dn-metabox-campaign.php:110
+msgid "Start Date"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:233 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/class-dn-metabox-campaign.php:114
+msgid "End Date"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:234
+msgid "Founded"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:235
+msgid "Created At"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:268
+msgctxt "post type general name"
+msgid "Campaigns"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:269
+msgctxt "post type singular name"
+msgid "Campaign"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:270
+msgctxt "admin menu"
+msgid "Campaigns"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:271
+msgctxt "add new on admin bar"
+msgid "Campaign"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:272
+msgctxt "add new on admin bar"
+msgid "Add Campaign"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:273
+msgid "Add New Campaign"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:274
+msgid "New Campaign"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:275
+msgid "Edit Campaign"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:276
+msgid "View Campaign"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:277 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:286
+msgid "Campaigns"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:278 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:438
+msgid "Search Campaigns"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:279
+msgid "Parent Campaigns:"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:280
+msgid "No campaign found."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:281
+msgid "No campaign found in Trash."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:308
+msgctxt "post type general name"
+msgid "Donates"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:309
+msgctxt "post type singular name"
+msgid "Donate"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:310
+msgctxt "add new on admin bar"
+msgid "Donates"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:311
+msgctxt "admin menu"
+msgid "Donate"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:312
+msgctxt "dn_donate"
+msgid "Add Donate"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:313
+msgid "Add New Donate"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:314
+msgid "New Donate"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:315
+msgid "Edit Donate"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:316
+msgid "View Donate"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:317 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:326
+msgid "Donates"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:318
+msgid "Search Donates"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:319
+msgid "Parent Donates:"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:320
+msgid "No donates found."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:321
+msgid "No donates found in Trash."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:332
+msgctxt "URL slug"
+msgid "donates"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:347
+msgctxt "post type general name"
+msgid "Donate Item"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:365
+msgid "Donate Item"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:371
+msgctxt "URL slug"
+msgid "donate-item"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:391
+msgctxt "post type general name"
+msgid "Donors"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:392
+msgctxt "post type singular name"
+msgid "Donor"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:393
+msgctxt "admin menu"
+msgid "Donors"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:394
+msgctxt "add new on admin bar"
+msgid "Donor"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:395
+msgctxt "dn_donor"
+msgid "Add Donor"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:396
+msgid "Add New Donor"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:397
+msgid "New Donor"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:398
+msgid "Edit Donor"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:399
+msgid "View Donor"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:400 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:409
+msgid "Donors"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:401
+msgid "Search Donors"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:402
+msgid "Parent Donors:"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:403
+msgid "No donors found."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:404
+msgid "No donors found in Trash."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:415
+msgctxt "URL slug"
+msgid "donors"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:436
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:437
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:439
+msgid "All Campaigns"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:440
+msgid "Parent Category"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:441
+msgid "Parent Category:"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:442
+msgid "Edit Category"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:443
+msgid "Update Category"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:444
+msgid "Add New Category"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:445
+msgid "New Category"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:446
+msgid "Categories"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:455
+msgctxt "URL slug"
+msgid "campaign-cat"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:463
+msgctxt "taxonomy general name"
+msgid "Tags"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:464
+msgctxt "taxonomy singular name"
+msgid "Tag"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:465
+msgid "Search Tag"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:466
+msgid "All Tags"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:467
+msgid "Parent Tag"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:468
+msgid "Parent Tag:"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:469
+msgid "Edit Tag"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:470
+msgid "Update Tag"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:471
+msgid "Add New Tag"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:472
+msgid "New Tag"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:473
+msgid "Tags"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:482
+msgctxt "URL slug"
+msgid "campaign-tag"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:496
+msgctxt "Donate Status"
+msgid "Cancelled"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:508
+msgctxt "Donate Status"
+msgid "Pending"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:520
+msgctxt "Donate Status"
+msgid "Processing"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:532
+msgctxt "Donate Status"
+msgid "Completed"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:544
+msgctxt "Donate Status"
+msgid "Refunded"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:563
+msgid "Full Name"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:564 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:629 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-email.php:28 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donor.php:20
+msgid "Email"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:565 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:636 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donor.php:21
+msgid "Address"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:566 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donor.php:22
+msgid "Phone"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:601
+msgid "Donor Info"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:609
+msgid "Donor ID #%s"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:615
+msgid "First Name"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:616
+msgid "Enter First Name (required)"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:622
+msgid "Last Name"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:623
+msgid "Enter Last Name (required)"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:630
+msgid "Enter Email (required)"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:637
+msgid "Enter Address (required)"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:643
+msgid "Phone Num."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-custom-post-type.php:644
+msgid "Enter Phone Number (required)"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-donate.php:44
+msgid "Could not created donor."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-donor.php:45
+msgid "Could not create new donor with empty email."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-donor.php:70
+msgid "Could not create new donor."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-email.php:46
+msgid "Donate completed"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-setting.php:56
+msgid "TP Donate Settings"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/class-dn-setting.php:56
+msgid "Settings"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/functions.php:445
+msgid "--- Select page ---"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/functions.php:569
+msgid "no data for %s"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/functions.php:756
+msgid "Pending"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/functions.php:757 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/functions.php:1277 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/i18n.php:20
+msgid "Processing"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/functions.php:758 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/i18n.php:21
+msgid "Completed"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/functions.php:1280
+msgid "Complete"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/functions.php:1283
+msgid "View"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/i18n.php:11
+msgid "Please enter donate amount."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/i18n.php:12
+msgid "Please enter valid email. Eg: example@example.com"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/i18n.php:13
+msgid "First name invalid, min length 3 and max length 15 character."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/i18n.php:14
+msgid "Last name invalid, min length 3 and max length 15 character."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/i18n.php:15
+msgid "Phone number invalid. Eg: 01365987521."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/i18n.php:16
+msgid "Please select payment method."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/i18n.php:17
+msgid "Please enter your address."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/i18n.php:18
+msgid "Processing..."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/install.php:80
+msgctxt "donate-cart"
+msgid "donate-cart"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/install.php:81
+msgctxt "Donate Cart"
+msgid "Donate Cart"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/install.php:90
+msgctxt "donate-checkout"
+msgid "donate-checkout"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/install.php:91
+msgctxt "Donate Checkout"
+msgid "Donate Checkout"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/pagination.php:29
+msgid "Previous"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/pagination.php:30
+msgid "Next"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/abstracts/class-dn-abstract-payments.php:120
+msgid "Payment completed. We will send you email when payment method verify."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/class-dn-admin-menu.php:27
+msgid "TP Donate"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:34 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:102 
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/shortcodes/donate.php:30
+msgid "Checkout"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:43 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-general.php:28 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/class-dn-metabox-campaign.php:47
+msgid "General"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:45
+msgid "General settings"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:46 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-donate.php:38
+msgid ""
+"The following options affect how format are displayed list donate causes on "
+"the frontend."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:50
+msgid "Environment"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:51
+msgid "This controlls test or production mode"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:58
+msgid "Test"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:59
+msgid "Production"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:65
+msgid "Cancel Pending Order"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:66
+msgid "This controlls how many time cancel Pending Order status."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:78
+msgid "Include lightbox"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:79
+msgid ""
+"This controlls include payment lightbox donate form and not using Cart or "
+"Checkout page"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:86 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:159 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-donate.php:65 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-donate.php:80 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-donate.php:101 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-donate.php:116 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-email.php:51 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:129 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/paypal/class-dn-payment-paypal.php:137 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/stripe/class-dn-payment-stripe.php:79
+msgid "No"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:87 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:158 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-donate.php:64 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-donate.php:79 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-donate.php:100 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-donate.php:115 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-email.php:50 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:130 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/paypal/class-dn-payment-paypal.php:138 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/stripe/class-dn-payment-stripe.php:80
+msgid "Yes"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:93
+msgid "Donate redirect."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:94
+msgid "This controlls redirect page on donate submit?"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:101
+msgid "Cart"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:108
+msgid "Cart page"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:109
+msgid "This controlls set Cart page"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:120
+msgid "Checkout page"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:121
+msgid "This controlls set Checkout page"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:132
+msgid "Terms and Conditions page"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:133
+msgid "This controlls set Terms and Conditions page"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:145
+msgid "Checkout page setting"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:146
+msgid ""
+"The following options affect how format are displayed list donate causes on "
+"the checkout page."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:150
+msgid "Show terms & Conditions"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-checkout.php:151
+msgid "This controlls display term & condition in checkout page"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-donate.php:37
+msgid "Archive settings"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-donate.php:42
+msgid "Archive columns"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-donate.php:43
+msgid "This controlls how many column archive page."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-donate.php:56 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-donate.php:92
+msgid "Raised and Goal"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-donate.php:57 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-donate.php:93
+msgid "Display raised and goal on the frontend"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-donate.php:71 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-donate.php:107
+msgid "Countdown Raised"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-donate.php:72 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-donate.php:108
+msgid "Display countdown raised on the frontend"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-donate.php:87
+msgid "Single setting"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-donate.php:88
+msgid ""
+"The following options affect how format are displayed single page on the "
+"frontend."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-email.php:37
+msgid "Email Settings"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-email.php:38 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-general.php:39
+msgid "The following options affect how prices are displayed on the frontend."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-email.php:42 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:121 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/paypal/class-dn-payment-paypal.php:129 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/stripe/class-dn-payment-stripe.php:71
+msgid "Enable"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-email.php:43
+msgid "This controlls what the currency prices"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-email.php:57
+msgid "From name"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-email.php:58
+msgid "This set email from name"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-email.php:70
+msgid "Email from"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-email.php:71
+msgid "This set email send"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-email.php:83
+msgid "Email Content"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-email.php:84
+msgid ""
+"Use [donor_email], [donor_first_name], [donor_last_name], [donor_phone], "
+"[donor_address] tags to generate email template"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-general.php:38
+msgid "Currency settings"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-general.php:43
+msgid "Donation system"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-general.php:44
+msgid "Donation system without campaign."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-general.php:55
+msgid "Currency aggregator"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-general.php:56
+msgid "This controls what the currency prices when change currency setting."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-general.php:70 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/class-dn-metabox-campaign.php:89
+msgid "Currency"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-general.php:71
+msgid "This controls what the currency prices."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-general.php:82
+msgid "Currency Position"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-general.php:83
+msgid "This controls the position of the currency symbol."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-general.php:90
+msgid "Left"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-general.php:91
+msgid "Right"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-general.php:92
+msgid "Left with space"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-general.php:93
+msgid "Right with space"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-general.php:99
+msgid "Thousand Separator."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-general.php:110
+msgid "Decimal Separator."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/settings/class-dn-setting-general.php:121
+msgid "Number of Decimals."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/widgets/class-dn-widget-button.php:18
+msgid "Create button donate everywhere"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/widgets/class-dn-widget-button.php:50 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/widgets/class-dn-widget-donate-system.php:51
+msgid "Title:"
+msgstr ""
+
+#. Base ID
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/widgets/class-dn-widget-donate-system.php:18
+msgid "Donate System"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/widgets/class-dn-widget-donate-system.php:19
+msgid "Show amount donated of system."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/cart/cart_footer.php:9
+msgid "Donate Payment"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/cart/cart_title.php:14 
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/checkout/cart_title.php:11
+msgid "Item name"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/cart/cart_title.php:17 
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/checkout/cart_title.php:14
+msgid "Item amount"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/cart/empty.php:12
+msgid "You have no donate item!"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/checkout/personal.php:13 
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/shortcodes/donate-form.php:70
+msgid "Personal Info"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/checkout/personal.php:18 
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/shortcodes/donate-form.php:73
+msgid "* First Name"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/checkout/personal.php:22 
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/shortcodes/donate-form.php:77
+msgid "* Last Name"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/checkout/personal.php:26 
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/shortcodes/donate-form.php:81
+msgid "* Email"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/checkout/personal.php:30 
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/shortcodes/donate-form.php:85
+msgid "* Phone"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/checkout/personal.php:34 
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/shortcodes/donate-form.php:89
+msgid "* Address"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/checkout/personal.php:38 
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/shortcodes/donate-form.php:93
+msgid "Additional note"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/checkout/term_condition.php:16 
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/shortcodes/donate-form.php:108
+msgid "Terms & Conditions"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/checkout/thank-you.php:9
+msgid "Thanks for your donated."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/checkout/thank-you.php:13 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/class-dn-metabox-donate.php:41
+msgid "Donate Details"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/checkout/thank-you.php:16
+msgid "Donate ID: "
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/checkout/thank-you.php:20
+msgid "Donated Total: "
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/checkout/thank-you.php:24
+msgid "Donate Date: "
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/checkout/thank-you.php:28
+msgid "Payment Method: "
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/checkout/thank-you.php:38
+msgid "Donate Status: "
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/checkout/thank-you.php:48
+msgid "Donor Information"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/checkout/thank-you.php:51
+msgid "First Name: "
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/checkout/thank-you.php:55
+msgid "Last Name: "
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/checkout/thank-you.php:59
+msgid "Email: "
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/checkout/thank-you.php:63
+msgid "Phone: "
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/checkout/thank-you.php:67
+msgid "Addition Note: "
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/loop/countdown.php:16
+msgid "%s Days To Go"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/loop/goal_raised.php:9 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/class-dn-metabox-campaign.php:104
+msgid "Raised"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/loop/goal_raised.php:13 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/class-dn-metabox-campaign.php:100
+msgid "Goal"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/loop/posted.php:11
+msgid "Posted in:"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/loop/posted.php:16
+msgid "Posted by:"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/loop/thumbnail.php:24 
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/shortcodes/donate.php:11 
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/single/donate.php:8
+msgid "Donate now"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/shortcodes/donate-form.php:12
+msgid "Donation amount"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/shortcodes/donate-form.php:56 
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/shortcodes/donate-form.php:158
+msgid "Enter custom donate amount: "
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/templates/shortcodes/donate.php:29
+msgid "View Cart"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/class-dn-metabox-campaign.php:28
+msgid "Campaign Settings"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/class-dn-metabox-campaign.php:50
+msgid "Compensate"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/class-dn-metabox-campaign.php:83
+msgid "Flexible"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/class-dn-metabox-campaign.php:84
+msgid "Fixed"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/class-dn-metabox-campaign.php:86
+msgid "Flexible allow charge although full founded or expired date."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/class-dn-metabox-campaign.php:95
+msgid ""
+"Please make sure this option is keep not change. If it change Raised will be "
+"change."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/class-dn-metabox-campaign.php:125 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/class-dn-metabox-campaign.php:157
+msgid "Marker"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/class-dn-metabox-campaign.php:129 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/class-dn-metabox-campaign.php:161
+msgid "Description"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/class-dn-metabox-campaign.php:133 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/class-dn-metabox-campaign.php:165
+msgid "Remove"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/class-dn-metabox-campaign.php:140
+msgid "Add Compensate"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/class-dn-metabox-donate-action.php:42
+msgid "Donate Actions"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/class-dn-metabox-donate-note.php:42
+msgid "Donate Note"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:45
+msgid "AuthorizeNet"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:58
+msgid "This transaction has been approved."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:59
+msgid "This transaction has been declined."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:60
+msgid "There has been an error processing this transaction."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:61
+msgid " This transaction is being held for review."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:122 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/paypal/class-dn-payment-paypal.php:130 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/stripe/class-dn-payment-stripe.php:72
+msgid "This controlls enable payment method"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:135
+msgid "Api Login ID"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:136
+msgid "Api login id"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:146
+msgid "Transaction Key"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:147
+msgid "Transaction key"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:162
+msgid "Transaction Key is invalid."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:201
+msgid "Cancel"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:203
+msgid "Click here to return our homepage."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:222
+msgid "Redirect to Authorize.Net"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/paypal/class-dn-payment-paypal.php:31
+msgid "Paypal"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/paypal/class-dn-payment-paypal.php:60
+msgid "Donate is cancel."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/paypal/class-dn-payment-paypal.php:143
+msgid "Paypal email"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/paypal/class-dn-payment-paypal.php:144 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/stripe/class-dn-payment-stripe.php:108 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/stripe/class-dn-payment-stripe.php:119
+msgid "Production environment"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/paypal/class-dn-payment-paypal.php:154
+msgid "Paypal sandbox email"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/paypal/class-dn-payment-paypal.php:155 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/stripe/class-dn-payment-stripe.php:86 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/stripe/class-dn-payment-stripe.php:97
+msgid "Test environment"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/paypal/class-dn-payment-paypal.php:179
+msgid "Donate for"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/paypal/class-dn-payment-paypal.php:226
+msgid ""
+"Email Business PayPal is invalid. Please contact administrator to setup "
+"PayPal email."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/stripe/checkout-form.php:5
+msgid "Pay securely using your credit card."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/stripe/checkout-form.php:7
+msgid "Card Number"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/stripe/checkout-form.php:12
+msgid "Expires (MM / YY)"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/stripe/checkout-form.php:17
+msgid "Card Code (CVC)"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/stripe/class-dn-payment-stripe.php:43
+msgid "Stripe"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/stripe/class-dn-payment-stripe.php:85
+msgid "Test Secret Key"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/stripe/class-dn-payment-stripe.php:96
+msgid "Test Publish Key"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/stripe/class-dn-payment-stripe.php:107
+msgid "Live Secret Key"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/stripe/class-dn-payment-stripe.php:118
+msgid "Live Publish Key"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/stripe/class-dn-payment-stripe.php:137
+msgid ""
+"Secret key and Publish key is invalid. Please contact administrator to setup "
+"Stripe payment."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/stripe/class-dn-payment-stripe.php:144
+msgid "Credit Card information error."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/stripe/class-dn-payment-stripe.php:161 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/stripe/class-dn-payment-stripe.php:179
+msgid "Please try again"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/stripe/class-dn-payment-stripe.php:172
+msgid "Donor for"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/stripe/class-dn-payment-stripe.php:194
+msgid "%s - donate %s"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/stripe/class-dn-payment-stripe.php:212
+msgid "Connect Stripe has error. Please try again!"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/stripe/class-dn-payment-stripe.php:240
+msgid "Stripe process went wrong"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/gateways/stripe/class-dn-payment-stripe.php:266
+msgid ""
+"Stripe key is expired. Please contact administrator to do this payment "
+"gateway"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donate-action.php:46
+msgid "Payment Status"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donate-action.php:59
+msgid "Move to Trash"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donate-action.php:66
+msgid "Update"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donate-action.php:66
+msgid "Save"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donate-note.php:9
+msgid "Add note"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donate.php:23
+msgid "Donate Type"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donate.php:27
+msgid "System"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donate.php:28 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donate.php:61
+msgid "Campaign"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donate.php:30
+msgid "Select donate type, donate for <i>Campaign</i> or <i>System</i>"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donate.php:38
+msgid "Donor"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donate.php:42
+msgid "----------------------------"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donate.php:50
+msgid "Select donor."
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donate.php:62 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donor.php:55
+msgid "Amount"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donate.php:63
+msgid "Action"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donate.php:73 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donate.php:128
+msgid "Select Campaign"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donate.php:74 
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donate.php:129
+msgid "-----------------------"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donate.php:96
+msgid "Add Campaign"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donate.php:100
+msgid "Total(%s)"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donate.php:116
+msgid "Donate Total(%s)"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donor.php:17
+msgid "ID"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donor.php:18
+msgid "First name"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donor.php:19
+msgid "Last name"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donor.php:49
+msgid "Donated"
+msgstr ""
+
+#: D:/ob/thimpress-projects/plugins/tp-donate/inc/admin/metaboxes/views/donor.php:54
+msgid "Donate ID"
+msgstr ""
+
+#. Name of the plugin
+msgid "ThimPress Donate"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://thimpress.com/tp-donate"
+msgstr ""
+
+#. Author of the plugin
+msgid "ThimPress"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://thimpress.com"
+msgstr ""
